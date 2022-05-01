@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963901285326",
+    "project_id": "crudapp-21379",
+    "storage_bucket": "crudapp-21379.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963901285326:android:e644af963d4472301b419f",
+        "android_client_info": {
+          "package_name": "com.belajarandroid.crudapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963901285326-kavnai1h5lort1pp0kmimbibiej993hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzl2_Klh8XinC_gdZ6BsHKZywaW8qncPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963901285326-kavnai1h5lort1pp0kmimbibiej993hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
